@@ -24,3 +24,10 @@
   <a href="https://www.linkedin.com/in/giovanni-tamborim-69001022a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+### 📊 Estatísticas
+
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=pombalGustavo&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pombalGUstavo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
