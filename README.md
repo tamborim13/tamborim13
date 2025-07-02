@@ -28,6 +28,6 @@
 ### 📊 Estatísticas
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=pombalGustavo&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pombalGUstavo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamborim13&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamborim13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
