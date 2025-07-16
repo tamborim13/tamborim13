@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Snake Contribution Graph # O nome do workflow foi atualizado para Snake
 
 on:
   schedule:
@@ -15,19 +15,12 @@ jobs:
       - name: Create output directory
         run: mkdir -p ./output
 
-      # --- Gerar o gráfico para o tema CLARO ---
-      - name: Generate Pacman Graph (Light Theme)
+      # Gerar a cobra com o tema ESCURO
+      - name: Generate Snake Graph (Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: tamborim13
-          outputs: ./output/pacman-contribution-graph.svg?palette=github # Salva o arquivo para o tema claro com a paleta 'github'
-
-      # --- Gerar o gráfico para o tema ESCURO ---
-      - name: Generate Pacman Graph (Dark Theme)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: tamborim13
-          outputs: ./output/pacman-contribution-graph-dark.svg?palette=github-dark # Salva o arquivo para o tema escuro com a paleta 'github-dark'
+          outputs: ./output/snake-contribution-graph.svg?palette=github-dark # Note a paleta 'github-dark' e o nome do arquivo
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
