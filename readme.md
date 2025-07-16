@@ -16,9 +16,7 @@
   
 </div>
   
-  ##
 
- 
 <div> 
   <a href="https://instagram.com/tamborim_giovanni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tamborimgiovanni2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamborim13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+### Commits 👾💻
 
 <img alt="snake contribution graph" src="https://raw.githubusercontent.com/tamborim13/tamborim13/output/snake-contribution-graph.svg">
 
