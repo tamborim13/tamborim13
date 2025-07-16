@@ -9,11 +9,25 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman Graph
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create output directory
+        run: mkdir -p ./output
+
+      # --- Gerar o gráfico para o tema CLARO ---
+      - name: Generate Pacman Graph (Light Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: tamborim13
-          outputs: ./output/pacman-contribution-graph.svg
+          outputs: ./output/pacman-contribution-graph.svg?palette=github # Salva o arquivo para o tema claro com a paleta 'github'
+
+      # --- Gerar o gráfico para o tema ESCURO ---
+      - name: Generate Pacman Graph (Dark Theme)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: tamborim13
+          outputs: ./output/pacman-contribution-graph-dark.svg?palette=github-dark # Salva o arquivo para o tema escuro com a paleta 'github-dark'
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
