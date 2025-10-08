@@ -1,8 +1,8 @@
 ## Seja Bem Vindo!! Eu Sou Giovanni Tamborim!
 
-- 🔭 Atualmente: Apenas Estudando!
+- 🔭 Atualmente: Auxiliar Financeiro.
 - 💻 Sou Estudante De Análise e Desenvolvimento De Sistemas
-- ⚡ Estou Estudando Python e MySQL
+- ⚡ Desenvolvedor Jr Python e MySQL
 - 💬 Foco Em Desenvolvimento e Análise De Dados!
   
 ## Skills:
