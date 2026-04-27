@@ -2,7 +2,7 @@
 
 - 🔭 Analista De TI.
 - 🎓 Estudante De Análise e Desenvolvimento De Sistemas.
-- ⚡ Desenvolvedor Jr Python, ADVPL (Protheus TOTVS) e JavaScript
+- ⚡ Desenvolvedor Jr Python e ADVPL (Protheus TOTVS)
 - 💬 Experiência com SQL e APIRest.
 - 💻 Foco no Backend em Análise e Manipulação De Dados.
 
