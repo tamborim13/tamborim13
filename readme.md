@@ -1,3 +1,23 @@
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
+
+# Seja Bem Vindo!! Eu Sou Giovanni Tamborim!
+
+</td>
+
+<td align="right">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="140">
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ## Seja Bem Vindo!! Eu Sou Giovanni Tamborim!
 
 - 🔭 Atualmente: Auxiliar Financeiro.
@@ -17,7 +37,9 @@
 
 </div>
 
-<br>
+<br><br>
+
+## Contato:
 
 <div align="center"> 
 <a href="https://instagram.com/tamborim_giovanni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -32,12 +54,6 @@
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=tamborim13&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamborim13&layout=compact&langs_count=5&theme=chartreuse-dark&hide_border=true"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="850">
 </div>
 
 <br><br>
