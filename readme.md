@@ -23,6 +23,10 @@
 
 <br>
 
+## Contato:
+
+<br>
+
 <div align="center"> 
 <a href="https://instagram.com/tamborim_giovanni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:tamborimgiovanni2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
