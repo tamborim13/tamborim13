@@ -1,8 +1,4 @@
-<p align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="140">
-</p>
-
-## Seja Bem Vindo!! Eu Sou Giovanni Tamborim!
+## Seja Bem Vindo!! Eu Sou Giovanni Tamborim! <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="140" align="right">
 
 - 🔭 Atualmente: Auxiliar Financeiro.
 - 💻 Sou Estudante De Análise e Desenvolvimento De Sistemas
@@ -21,7 +17,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 ## Contato:
 
@@ -30,6 +26,8 @@
 <a href="mailto:tamborimgiovanni2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/giovanni-tamborim-69001022a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
+
+<br>
 
 ---
 
