@@ -1,7 +1,7 @@
 ## Seja Bem Vindo!! Eu Sou Giovanni Tamborim! <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" align="right">
 
 - 🔭 Analista De TI.
-- 🎓 Sou Estudante De Análise e Desenvolvimento De Sistemas.
+- 🎓 Estudante De Análise e Desenvolvimento De Sistemas.
 - ⚡ Desenvolvedor Jr Python, ADVPL (Protheus TOTVS) e JavaScript
 - 💬 Experiência com SQL e APIRest.
 - 💻 Foco no Backend em Análise e Manipulação De Dados.
