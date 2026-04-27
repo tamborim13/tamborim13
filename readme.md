@@ -1,22 +1,6 @@
-<div align="center">
-
-<table>
-<tr>
-<td align="left">
-
-# Seja Bem Vindo!! Eu Sou Giovanni Tamborim!
-
-</td>
-
-<td align="right">
-
+<p align="right">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="140">
-
-</td>
-</tr>
-</table>
-
-</div>
+</p>
 
 ## Seja Bem Vindo!! Eu Sou Giovanni Tamborim!
 
