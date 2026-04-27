@@ -7,7 +7,7 @@
   
 ## Skills:
 
-<div style="display: flex; flex-direction: row; gap: 15px; align-items: center;">
+<div>
   <a href="URL_DO_SEU_JS" target="_blank">
     <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
