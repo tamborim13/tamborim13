@@ -28,6 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamborim13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
+
 ### Commits 👾💻
 
 <img alt="snake contribution graph" src="https://raw.githubusercontent.com/tamborim13/tamborim13/output/snake-contribution-graph.svg">
